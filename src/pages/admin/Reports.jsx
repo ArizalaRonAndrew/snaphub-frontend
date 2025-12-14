@@ -1,3 +1,4 @@
+// src/pages/admin/Reports.jsx
 import React, { useState, useEffect } from "react";
 import { Banknote, Briefcase, Users, Trash2, Eraser, Package, AlertTriangle, X, CheckCircle } from "lucide-react";
 import { getAllBookings, deleteBooking } from "../../services/BookingService"; 
