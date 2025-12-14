@@ -1,3 +1,4 @@
+
 import { useState, useRef } from "react";
 import PhotoUpload from "./PhotoUpload";
 import SignatureCanvas from "./SignatureCanvas";
@@ -610,3 +611,5 @@ export default function StudentIdForm() {
     </>
   );
 }
+
+// src/components/StudentIdForm.jsx
