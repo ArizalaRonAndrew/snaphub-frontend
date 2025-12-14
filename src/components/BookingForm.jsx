@@ -559,5 +559,3 @@ export default function BookingForm() {
     </>
   );
 }
-
-// src/components/BookingForm.jsx
