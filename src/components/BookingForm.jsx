@@ -559,7 +559,10 @@ export default function BookingForm() {
     </>
   );
 }
+<<<<<<< HEAD
 
 // src/components/BookingForm.jsx
 
 src/components/StudentIdForm.jsx
+=======
+>>>>>>> 4f45b5b6054d3469f95299d8945fecacb2915e2d
